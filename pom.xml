@@ -4,7 +4,7 @@
     <groupId>com.visualpathit</groupId>
     <artifactId>java-project</artifactId>
     <packaging>war</packaging>
-    <version>v2</version>
+    <version>v3</version>
     <name>Java Project</name>
     <url>http://maven.apache.org</url>
     <properties>
